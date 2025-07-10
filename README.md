@@ -138,7 +138,6 @@ Hi! I'm **Bhavya Verma**, a passionate software developer and AI enthusiast. I l
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhavya26050&show_icons=true&theme=tokyonight" alt="Bhavya's GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya26050&theme=tokyonight" alt="Bhavya's GitHub Streak" />
 </p>
 
 ---
